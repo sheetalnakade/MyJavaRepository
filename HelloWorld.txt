@@ -1,13 +1,12 @@
 class HelloWorld
 {
-void myMethod()
+static void HellomyMethod()
 {
 system.out.prontln("HelloWorld.......!!!!");
 }
 public static void main(String args[])
 {
-HelloWorld obj= new HelloWorld();
-obj.myMethod();
+HellomyMethod();
 }
 }
 
