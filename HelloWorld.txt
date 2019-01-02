@@ -1,8 +1,8 @@
 class HelloWorld
 {
-main()
+public static void main(String args[])
 {
-sysstem.out.prontln("Hello...");
+system.out.prontln("HelloWorld.......!!!!");
 }
 }
 
